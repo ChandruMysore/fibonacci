@@ -1,0 +1,16 @@
+D:\HackerRank\DXCFibonacci\fibonacci\bin\Debug\net5.0\fibonacci.exe
+D:\HackerRank\DXCFibonacci\fibonacci\bin\Debug\net5.0\fibonacci.deps.json
+D:\HackerRank\DXCFibonacci\fibonacci\bin\Debug\net5.0\fibonacci.runtimeconfig.json
+D:\HackerRank\DXCFibonacci\fibonacci\bin\Debug\net5.0\fibonacci.runtimeconfig.dev.json
+D:\HackerRank\DXCFibonacci\fibonacci\bin\Debug\net5.0\fibonacci.dll
+D:\HackerRank\DXCFibonacci\fibonacci\bin\Debug\net5.0\ref\fibonacci.dll
+D:\HackerRank\DXCFibonacci\fibonacci\bin\Debug\net5.0\fibonacci.pdb
+D:\HackerRank\DXCFibonacci\fibonacci\obj\Debug\net5.0\fibonacci.csprojAssemblyReference.cache
+D:\HackerRank\DXCFibonacci\fibonacci\obj\Debug\net5.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\HackerRank\DXCFibonacci\fibonacci\obj\Debug\net5.0\fibonacci.AssemblyInfoInputs.cache
+D:\HackerRank\DXCFibonacci\fibonacci\obj\Debug\net5.0\fibonacci.AssemblyInfo.cs
+D:\HackerRank\DXCFibonacci\fibonacci\obj\Debug\net5.0\fibonacci.csproj.CoreCompileInputs.cache
+D:\HackerRank\DXCFibonacci\fibonacci\obj\Debug\net5.0\fibonacci.dll
+D:\HackerRank\DXCFibonacci\fibonacci\obj\Debug\net5.0\ref\fibonacci.dll
+D:\HackerRank\DXCFibonacci\fibonacci\obj\Debug\net5.0\fibonacci.pdb
+D:\HackerRank\DXCFibonacci\fibonacci\obj\Debug\net5.0\fibonacci.genruntimeconfig.cache
